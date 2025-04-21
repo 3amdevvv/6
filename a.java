@@ -120,3 +120,17 @@ public class AStarSearch {
     }
 }
 
+Enter number of nodes: 3
+Node name: A
+Heuristic value for A: 5
+Enter neighbors of A (format: B 2 C 3): B 2 C 3
+Node name: B
+Heuristic value for B: 2
+Enter neighbors of B (format: B 2 C 3): A 2 C 1
+Node name: C
+Heuristic value for C: 0
+Enter neighbors of C (format: B 2 C 3): A 3 B 1
+Enter start node: A
+Enter goal node: C
+
+
