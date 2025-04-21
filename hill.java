@@ -57,3 +57,10 @@ public class HillClimbing {
         scanner.close();
     }
 } 
+
+
+Enter starting point (between -10 and 10): -3.5
+Enter step size: 0.1
+Enter maximum number of iterations: 1000
+Hill Climbing Result:
+Best Solution: -103.5000, Fitness: 10712.2500
