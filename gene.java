@@ -99,3 +99,8 @@ public class GAFunctionOptimization {
         return population[population.length - 1]; // fallback
     }
 }
+
+
+Enter population size: 10
+Enter number of generations: 100
+Enter mutation rate (e.g. 0.01): 0.05
